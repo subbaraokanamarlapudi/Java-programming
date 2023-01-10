@@ -7,7 +7,7 @@ OPERATORS:
 * Relational operator.
 * Assignment operator.
 
-Mensuration(circle,rectangle,square)
+Mensuration(circle,rectangle,square.....etc)
 * AreaOfCircle          
 * AreaOfRectangle
 * AreaOfSquare
