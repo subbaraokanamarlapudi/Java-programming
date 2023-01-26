@@ -12,7 +12,7 @@ Mensuration(circle,rectangle,square.....etc)
 * AreaOfRectangle
 * AreaOfSquare
 
-Conrol-statements
+Control-statements
 * Conditional statements
 * Loop statements
 * Jump statements
