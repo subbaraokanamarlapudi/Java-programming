@@ -11,3 +11,8 @@ Mensuration(circle,rectangle,square.....etc)
 * AreaOfCircle          
 * AreaOfRectangle
 * AreaOfSquare
+
+Conrol-statements
+* Conditional statements
+* Loop statements
+* Jump statements
