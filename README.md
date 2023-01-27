@@ -7,12 +7,12 @@ OPERATORS:
 * Relational operator.
 * Assignment operator.
 
-Mensuration(circle,rectangle,square.....etc)
+MENSURATION(circle,rectangle,square.....etc)
 * AreaOfCircle          
 * AreaOfRectangle
 * AreaOfSquare
 
-Control-statements
+CONTROL-STATEMENTS
 * Conditional statements
 * Loop statements
 * Jump statements
